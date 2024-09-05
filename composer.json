@@ -1,0 +1,17 @@
+{
+    "name": "gpit/inspire",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thizhw",
+            "email": "wthizh@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
